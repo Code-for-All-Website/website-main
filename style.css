@@ -1,0 +1,26 @@
+#home-title{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    height: 800px;
+    
+}
+#cfa{
+    font-size: 115px;
+    margin-bottom: -5px;
+}
+#club-bot{
+    color: gray;
+    font-size: 20px;
+}
+
+#discord-link{
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 8px;
+}
